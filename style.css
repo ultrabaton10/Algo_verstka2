@@ -1,0 +1,137 @@
+body {
+    font-family: sans-serif;
+    width: 1000px;
+    background-color: #A60000;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    background-color:#B0D1F0;
+    padding: 25px 25px 25px 25px;
+    margin: 0px 0px 0px 0px;
+    height: 40px;
+    width: 500px;
+}
+nav {
+    background-color: black;
+    color: white;
+    padding-bottom: 0px;
+    padding-top: 30px;
+
+}
+.a1 {
+    margin-right: 60px;
+    color: white;
+    margin-top: 0px;
+}
+.a2 {
+    margin-left: 60px;
+    color: white;
+    margin-top: 0px;
+}
+
+
+.main_info1 {
+    background-color: #C6FA9D;
+    border-radius: 66px;
+    margin-top: 0px;
+    padding: 0px 0px 20px 0px;
+    height: 790px;
+    width: 1010px;
+}
+nav {
+    height: 50px;
+}
+
+.h1_t {
+    margin: 70px 0px 0px 230px;
+    height: 30px;
+}
+
+
+    
+footer {
+    background-color: black;
+    color: white;
+    width: 1010px;
+    height: 170px;
+    
+}
+
+footer p {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.first_header {
+    text-align: center;
+    font-size: 30px;
+    padding: 50px 0px 10px 0px;
+    margin: 0px 0px 0px 0px;
+    height: 70px;
+    width: 1010px
+
+}
+
+.all_header {
+    background-color: #FB8585;
+    height: 140px;
+    width: 1010px
+}
+
+
+header img {
+    height: 10px;
+    margin: 0px;
+}
+
+
+.main_info1 {
+    background-color: #C6FA9D;
+    border-radius: 66px;
+    margin-top: 60px;
+    padding: 10px 0px 10px 0px;
+    height: 800px;
+    width: 1010px;
+}
+
+.main_info2 {
+    height: 1161px;
+    width: 634px;
+    padding-left: 30px;
+}
+
+.main_info2 a {
+    color: black;
+    height: 1161px;
+    width: 634px;
+}
+.img1 {
+    height: 100px;
+    width: 150px;
+    border-radius: 49px;
+    margin-left: 10px;
+}
+.img2 {
+    height: 100px;
+    width: 170px;
+    margin-left: 50px;
+}
+.images {
+    float: right;
+    height: 1200px;
+    width: 478px;
+    margin: 10px 90px 0px 20px;
+}
+#image_for_right_1 {
+    float: right;
+}
+
+#image_for_right_2 {
+    float: right;
+}
+.conteiner_bottom1 {
+
+}
